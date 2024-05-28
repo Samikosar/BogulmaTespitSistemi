@@ -5,3 +5,6 @@ Boğulma, hızlı ve etkili müdahale gerektiren acil bir durumdur ve ilk birka�
 ![Ekran görüntüsü 2024-05-23 160723](https://github.com/Samikosar/BogulmaTespitSistemi/assets/120650182/a49641aa-54b8-476e-80d4-02733ef02029)
 
 Bu çalışmada havuzlarda yaşanan ölümler, genellikle dikkatsizlik, güvenlik önlemlerinin yetersizliği gibi sorunların çözümü için teknolojilerde kullanılabilecek real-time görüntü işleme sistemlerin, videolarda ve gerçek zamanlı çalışan sistemlerde boğulmayı tespit edebilen bir model gerçekleştirilmesi ile boğulma vakalarının önüne geçilmesi amaçlanmıştır. Örneğin tek başına havuzda yüzen bir kişinin çeşitli sebeblerle boğulma tehlikesi geçirmesi durumunda tespit edilebilmesi amaçlanmıştır.
+modelin çıktı sonuçları:
+
+![image](https://github.com/Samikosar/BogulmaTespitSistemi/assets/120650182/a0b41bb4-00e3-4786-85f9-8c234d69f860)
